@@ -25,7 +25,7 @@
         </p>
 
         <p style="margin-top: 0">
-          Fork it on <a target="_blank" href="https://github.com/hoomanhm">GitHub</a><br/><br/>
+          Fork it on <a target="_blank" href="https://github.com/hoomanhm/qscreen">GitHub</a><br/><br/>
         </p>
 
       </div>
